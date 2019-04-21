@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Zion Perez](https://github.com/starkindustries)
+- [Allan Zarsuela](https://github.com/Lanzjess)
 - [Ben Hunter](https://github.com/benhunter)
 - [Rob Cotter](https://github.com/robcotter)
 - Kaobe Osolu
